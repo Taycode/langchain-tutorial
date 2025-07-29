@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 black = "*"
+langchain = "*"
+langchain-openai = "*"
+langchain-community = "*"
 python-dotenv = "*"
 
 [dev-packages]
